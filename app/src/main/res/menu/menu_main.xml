@@ -1,0 +1,62 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/primerosPasos"
+        android:title="@string/accion_uno"
+        app:showAsAction="never" >
+
+        <menu>
+            <item
+                android:id="@+id/subUno"
+                android:title="@string/uno" />
+            <item
+                android:id="@+id/subDos"
+                android:title="@string/dos" />
+            <item
+                android:id="@+id/subTres"
+                android:title="@string/tres" />
+            <item
+                android:id="@+id/subCuatro"
+                android:title="@string/cuatro" />
+            <item
+                android:id="@+id/subCinco"
+                android:title="@string/cinco" />
+            <item
+                android:id="@+id/subSeis"
+                android:title="@string/seis" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/controles"
+        android:title="@string/accion_dos"
+        app:showAsAction="never" >
+
+        <menu>
+            <item
+                android:id="@+id/subSiete"
+                android:title="@string/uno" />
+            <item
+                android:id="@+id/subOcho"
+                android:title="@string/dos" />
+            <item
+                android:id="@+id/subNueve"
+                android:title="@string/tres" />
+            <item
+                android:id="@+id/subDiez"
+                android:title="@string/cuatro" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/interfazGrafica"
+        android:title="@string/accion_tres"
+        app:showAsAction="never" />
+
+
+
+</menu>

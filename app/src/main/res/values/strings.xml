@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CreandoSubMenus</string>
+    <string name="accion_uno">Primeros pasos con Android</string>
+    <string name="accion_dos">Interfaz de usuario en Android I. Controles.</string>
+    <string name="accion_tres">Diseñando interfaz gráfica en Android.</string>
+
+    <!-- submenus -->
+
+    <string name="uno">Primeros pasos y creación de un proyecto nuevo con Android Studio.</string>
+    <string name="dos">Familiarizándonos con Android Studio.</string>
+    <string name="tres">Estructura de un proyecto en Android.</string>
+    <string name="cuatro">Entendiendo el funcionamiento de "Hola Mundo" en Android.</string>
+    <string name="cinco">Los diferentes Layouts en Android.</string>
+    <string name="seis">Atributos XML.</string>
+    <string name="siete">Creando botones.</string>
+    <string name="ocho">Creando cajas de texto.</string>
+    <string name="nueve">Insertando imágenes, scrollViews. Vistas Portrait y Landscape.</string>
+    <string name="diez">Insertando RatingBar, SeekBar y WebView.</string>
+
+</resources>
